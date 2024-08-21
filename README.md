@@ -5,8 +5,11 @@ Este projeto consiste em uma página de portfólio, desenvolvida durante o módu
 Para o desenvolvimento deste projeto, foram utilizadas as seguintes tecnologias:
 
 • HTML5: Responsável pela estruturação da página, definindo a organização dos conteúdos.
+
 • CSS: Utilizado para a estilização da página, incluindo layout, cores, fontes, e responsividade.
+
 • JavaScript (JS): Implementado para adicionar interatividade e funcionalidades à página, como animações e validação de formulários.
+
 • Form Submit: Recurso utilizado para o envio de formulários HTML diretamente para o email do desenvolvedor.
 
 ## 🚀 Funcionalidades
