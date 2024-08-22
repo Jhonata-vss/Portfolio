@@ -9,6 +9,7 @@ const emailRegex = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/
 
 // Cria a função responsável por preencher o conteúdo da Seção about
 async function getApiGithub(){
+  
 
     try{
 
