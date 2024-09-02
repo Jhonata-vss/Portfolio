@@ -30,7 +30,7 @@ async function getApiGithub(){
                 <h1>Sobre mim</h1>
 
                 <p>
-                   Olá, me chamo Jhonata Venicius, tenho 23 anos de idade e resido na z/o de São Paulo. Sou apaixonado pela Natureza e pelos Animais. Um dos meus maiores sonhos é fundar uma ONG dedicada a ajudar cães e gatos de rua a encontrar alimento e lar acolhedor.
+                   Me chamo Jhonata Venicius, tenho 23 anos de idade e resido na Zona Oeste de São Paulo. Sou apaixonado pela Natureza e pelos Animais, adoro acampar, fazer trilhas e apreciar belas paisagens. Tenho o sonho de viver em uma chácara cercado pelos meus animais e, além disso, fundar uma ONG dedicada a ajudar cães e gatos de rua a encontrar alimento e Lar acolhedor.
                 </p>
                 <p>
                 Sou formado como desenvolvedor JavaScript Full Stack, possuo habilidades técnicas em back-end e front-end, incluindo JavaScript, TypeScript, NodeJS, NestJS, HTML5, CSS, MySQL e React. Destaco a facilidade de trabalho em equipe, persistência e atenção ao detalhes como as minhas principais competências.
